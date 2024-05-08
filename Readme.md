@@ -6,7 +6,7 @@
 
 
 
-_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [™°‌ 🫧 SIDRA 𓃭🇨𝐇𝐀𝐓 𝐁𝐎𝐓 ⃟⛦⃕͜༆](https://t.me/indianlok)**_
+_**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [™°‌ 🫧 SIDRA 𓃭🇨𝐇𝐀𝐓 𝐁𝐎𝐓 ⃟⛦⃕͜༆](https://t.me/MRITYUY)**_
 ━━━━━━━━━━━━━━━━━━━━
 
 
@@ -25,5 +25,5 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [™°‌ 🫧 SIDRA
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─ 
 </h3>
 
-<p align="center"><a href=https://dashboard.heroku.com/new?template=https://github.com/Tahakhanop786/SIDRA-X-MANAGER/tree/Master> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href=https://dashboard.heroku.com/new?template=https://github.com/NOBITA018/JADUGAR-X-MANAGER.git> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
